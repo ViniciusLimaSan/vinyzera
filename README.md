@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinyzera)](https://github.com/vinyzera/github-readme-stats)
 <!--
 **vinyzera/vinyzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
